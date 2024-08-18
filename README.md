@@ -11,13 +11,13 @@
 
 # Índice 
 
-* [Título e Imagem de capa](#h1)
-* [Badges](#p)
-* [Índice](#Índice)
-* [Descrição do Projeto](#descrição-do-projeto)
-* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
-* [Acesso ao Projeto](#acesso-ao-projeto)
-* [Tecnologias utilizadas](#tecnologias-utilizadas)
-* [Conclusão](#conclusão)
+- [Título e Imagem de capa](#titulo)
+- [Badges](#badges)
+- [Índice](#indice)
+- [Descrição do Projeto](#descricao)
+- [Funcionalidades e Demonstração da Aplicação](#funcionalidades)
+- [Acesso ao Projeto](#acesso)
+- [Tecnologias utilizadas](#tecnologias)
+- [Conclusão](#conclusao)
 
    
