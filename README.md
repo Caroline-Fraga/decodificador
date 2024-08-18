@@ -28,8 +28,8 @@ Projeto desenvolvido para o Challenge ONE de lógica de programação da Alura.<
 
 # 🔨 Funcionalidades e demonstração do projeto
 
-- 'Criptografar a mensagem': o usuário digitará uma mensagem na área destinada a esta finalidade (área de texto esquerda, onde está escrito "Digie seu texto"). <br>
+- `Criptografar a mensagem`: o usuário digitará uma mensagem na área destinada a esta finalidade (área de texto esquerda, onde está escrito "Digite seu texto"). <br>
 OBS: quaisquer letras que o usuário digitar serão convertidas para minúsculas, e quaisquer acentos que o usuário vier a utilizar, serão retirados de suas respectivas letras quando as palavras forem criptografadas.  
-- 'Copiar a mensagem':
-- 'Descriptografar a mensagem': 
+- `Copiar a mensagem`:
+- `Descriptografar a mensagem`: 
 
