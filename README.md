@@ -22,7 +22,6 @@
 
 # Descrição do projeto
 
-<p>Projeto desenvolvido para o Challenge ONE de lógica de programação da Alura.</p> 
-<p>O decodificador de texto tem por finalidade criptografar a mensagem digitada pelo usuário, e também descriptografá-la.</p>   
+Projeto desenvolvido para o Challenge ONE de lógica de programação da Alura.<br>O decodificador de texto tem por finalidade criptografar a mensagem digitada pelo usuário, e também descriptografá-la.</br>
 
 ![print mostrando o decodificador de texto](https://github.com/user-attachments/assets/d275847a-67fa-4f49-8d63-ceeaa9683083)
