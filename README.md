@@ -11,9 +11,9 @@
 
 # Índice 
 
-* [Título e Imagem de capa](#título-e-Imagem-de-capa)
-* [Badges](#badges)
-* [Índice](#índice)
+* [Título e Imagem de capa](#h1)
+* [Badges](#p)
+* [Índice](#Índice)
 * [Descrição do Projeto](#descrição-do-projeto)
 * [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
 * [Acesso ao Projeto](#acesso-ao-projeto)
