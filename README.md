@@ -1,2 +1,2 @@
-![Match! (1) (1)](https://github.com/user-attachments/assets/d2d2c104-e759-4c78-9e97-d8db449edc64)
+![Match! (1) (1)](https://github.com/user-attachments/assets/b8bc0e4c-5700-4802-9e67-de13d5379a92)
 <h1 align="center"> Decodificador de Texto </h1>
