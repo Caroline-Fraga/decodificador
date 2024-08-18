@@ -8,3 +8,16 @@
   <img src="https://img.shields.io/github/forks/Caroline-Fraga/decodificador">
   <img src="https://img.shields.io/github/stars/Caroline-Fraga/decodificador">
 </p>
+
+# Índice 
+
+* [Título e Imagem de capa](#título-e-Imagem-de-capa)
+* [Badges](#badges)
+* [Índice](#índice)
+* [Descrição do Projeto](#descrição-do-projeto)
+* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
+* [Acesso ao Projeto](#acesso-ao-projeto)
+* [Tecnologias utilizadas](#tecnologias-utilizadas)
+* [Conclusão](#conclusão)
+
+   
