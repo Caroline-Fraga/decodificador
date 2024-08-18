@@ -11,13 +11,17 @@
 
 # Índice 
 
-- [Título e Imagem de capa](#titulo)
+- [Título e imagem de capa](#titulo)
 - [Badges](#badges)
 - [Índice](#indice)
-- [Descrição do Projeto](#descricao)
-- [Funcionalidades e Demonstração da Aplicação](#funcionalidades)
-- [Acesso ao Projeto](#acesso)
+- [Descrição do projeto](#descricao)
+- [Funcionalidades e demonstração da aplicação](#funcionalidades)
+- [Acesso ao projeto](#acesso)
 - [Tecnologias utilizadas](#tecnologias)
 - [Conclusão](#conclusao)
 
-   
+# Descrição do projeto
+
+Projeto desenvolvido para o Challenge ONE de lógica de programação da Alura. 
+O decodificador de texto tem por finalidade criptografar a mensagem digitada pelo usuário, e também descriptografá-la.   
+![print mostrando o decodificador de texto](https://github.com/user-attachments/assets/d275847a-67fa-4f49-8d63-ceeaa9683083)
