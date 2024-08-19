@@ -49,5 +49,11 @@ Após o download do projeto no formato ZIP, siga os passos abaixo:
 
 Seguindo estes passos, você poderá iniciar e utilizar o projeto conforme pretendido.
 
+## ✔ Tecnologias utilizadas
+
+- `HTML`
+- `CSS`
+- `JavaScript`
+
 
 
