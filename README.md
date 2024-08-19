@@ -1,8 +1,7 @@
-##
-<p>
-    ![logo do decodificador de texto](https://github.com/user-attachments/assets/c134a715-823e-4eac-b7c7-8618c644d408)
-    <h1 align="center"> Decodificador de Texto </h1>
-</p>
+## Título e imagem de capa
+
+![logo do decodificador de texto](https://github.com/user-attachments/assets/c134a715-823e-4eac-b7c7-8618c644d408)
+<h1 align="center"> Decodificador de Texto </h1>
 
 ## Badges
 
@@ -16,7 +15,7 @@
 
 ## Índice
 
-- [Título e imagem de capa](##)
+- [Título e imagem de capa](##título-e-imagem-de-capa)
 - [Badges](#Badges)
 - [Índice](#Índice)
 - [Descrição do projeto](#Descrição-do-projeto)
