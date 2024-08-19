@@ -13,7 +13,7 @@
 
 ## Índice
 
-- [Título e imagem de capa](#Título-e-imagem-de-capa)
+- [Título e imagem de capa](#h1)
 - [Badges](#Badges)
 - [Índice](#Índice)
 - [Descrição do projeto](#Descrição-do-projeto)
