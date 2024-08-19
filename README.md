@@ -1,3 +1,5 @@
+##
+
 ![logo do decodificador de texto](https://github.com/user-attachments/assets/c134a715-823e-4eac-b7c7-8618c644d408)
 <h1 align="center"> Decodificador de Texto </h1>
 
@@ -13,7 +15,7 @@
 
 ## Índice
 
-- [Título e imagem de capa](#h1)
+- [Título e imagem de capa](##)
 - [Badges](#Badges)
 - [Índice](#Índice)
 - [Descrição do projeto](#Descrição-do-projeto)
