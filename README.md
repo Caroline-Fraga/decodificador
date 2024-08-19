@@ -1,29 +1,25 @@
-## título-e-imagem
-
 ![logo do decodificador de texto](https://github.com/user-attachments/assets/c134a715-823e-4eac-b7c7-8618c644d408)
-<h1 align="center"> Decodificador de Texto </h1>
-
-## badges
+## <h1 align="center"> Decodificador de Texto </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Finalizado-green">
-  <img src="https://img.shields.io/badge/Data%20de%20Lan%C3%A7amento-Agosto%202024-blue">
-  <img src="https://img.shields.io/badge/Data%20de%20Lan%C3%A7amento-Agosto%202024-blue">
-  <img src="https://img.shields.io/github/license/Caroline-Fraga/decodificador">
-  <img src="https://img.shields.io/github/forks/Caroline-Fraga/decodificador">
-  <img src="https://img.shields.io/github/stars/Caroline-Fraga/decodificador">
+    <img src="https://img.shields.io/badge/Status-Finalizado-green">
+    <img src="https://img.shields.io/badge/Data%20de%20Lan%C3%A7amento-Agosto%202024-blue">
+    <img src="https://img.shields.io/badge/Data%20de%20Lan%C3%A7amento-Agosto%202024-blue">
+    <img src="https://img.shields.io/github/license/Caroline-Fraga/decodificador">
+    <img src="https://img.shields.io/github/forks/Caroline-Fraga/decodificador">
+    <img src="https://img.shields.io/github/stars/Caroline-Fraga/decodificador">
 </p>
 
 ## índice
 
-- [Título e imagem de capa](#título-e-imagem-de-capa)
-- [Badges](#badges)
-- [Índice](#índice)
-- [Descrição do projeto](#descrição-do-projeto)
-- [Funcionalidades e demonstração do projeto](#funcionalidades-e-demonstração-do-projeto)
-- [Acesso ao projeto](#acesso-ao-projeto)
-- [Abrir e executar o projeto](#abrir-e-executar-o-projeto)
-- [Tecnologias utilizadas](#tecnologias-utilizadas)
+- [Título e imagem de capa](##<h1 align="center"> Decodificador de Texto </h1>)
+- [Badges](##badges)
+- [Índice](##índice)
+- [Descrição do projeto](##descrição-do-projeto)
+- [Funcionalidades e demonstração do projeto](##funcionalidades-e-demonstração-do-projeto)
+- [Acesso ao projeto](##acesso-ao-projeto)
+- [Abrir e executar o projeto](##abrir-e-executar-o-projeto)
+- [Tecnologias utilizadas](##tecnologias-utilizadas)
 
 ## descrição-do-projeto
 
