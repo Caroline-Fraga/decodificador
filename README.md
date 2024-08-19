@@ -18,6 +18,7 @@
 - [Funcionalidades](#funcionalidades)
 - [Acesso ao projeto](#acesso)
 - [Abrir e executar o projeto](#abrir-projeto)
+- [Tecnologias utilizadas](#tecnologias)
 
 ## descricao
 
