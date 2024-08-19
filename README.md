@@ -44,8 +44,7 @@ Após o download do projeto no formato ZIP, siga os passos abaixo:
 - Descompacte o arquivo ZIP para acessar o conteúdo.
 - Navegue até a pasta intitulada "Decodificador de texto".
 - Localize e clique no arquivo index. O decodificador será aberto em seu navegador padrão.
-- O decodificador estará pronto para uso assim que abrir no navegador. <br>
-Seguindo estes passos, você poderá iniciar e utilizar o projeto conforme pretendido.
+- O decodificador estará pronto para uso assim que abrir no navegador. <br> Seguindo estes passos, você poderá iniciar e utilizar o projeto conforme pretendido.
 
 
 
