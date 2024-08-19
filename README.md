@@ -16,34 +16,34 @@
 
 ## índice
 
-- [Título e imagem de capa](##título-e-imagem)
-- [Badges](##badges)
-- [Índice](##índice)
-- [Descrição do projeto](##descrição)
-- [Funcionalidades do projeto](##funcionalidades)
-- [Acesso ao projeto](##acesso)
-- [Abrir e executar o projeto](##abrir-projeto)
-- [Tecnologias utilizadas](##tecnologias)
+- [Título e imagem de capa](#título-e-imagem-de-capa)
+- [Badges](#badges)
+- [Índice](#índice)
+- [Descrição do projeto](#descrição-do-projeto)
+- [Funcionalidades e demonstração do projeto](#funcionalidades-e-demonstração-do-projeto)
+- [Acesso ao projeto](#acesso-ao-projeto)
+- [Abrir e executar o projeto](#abrir-e-executar-o-projeto)
+- [Tecnologias-utilizadas](#tecnologias-utilizadas)
 
-## descrição
+## descrição-do-projeto
 
 Projeto desenvolvido para o Challenge ONE de lógica de programação da Alura.<br>O decodificador de texto tem por finalidade criptografar a mensagem digitada pelo usuário, e também descriptografá-la.
 
 ![print mostrando o decodificador de texto](https://github.com/user-attachments/assets/d275847a-67fa-4f49-8d63-ceeaa9683083)
 
-## 🔨 funcionalidades
+## 🔨 funcionalidades-e-demonstração-do-projeto
 
-`Criptografar a mensagem`: o usuário deve inserir uma mensagem na área designada para esse fim (área de texto esquerda, onde está escrito "Digite seu texto") e, em seguida, clicar no botão de criptografar. <br> Observação: Caso o usuário não siga a restrição de utilizar exclusivamente letras minúsculas e sem acentos, não é necessário se preocupar, pois todas as letras digitadas serão automaticamente convertidas para minúsculas e os acentos removidos durante o processo de criptografia.
+`Criptografar a mensagem`: o usuário deve inserir uma mensagem na área designada para esse fim (área de texto esquerda, onde está escrito "Digite seu texto") e, em seguida, clicar no botão de criptografar. <br> Observação: Caso o usuário não siga a restrição de utilizar exclusivamente letras minúsculas e sem acento, não é necessário se preocupar, pois todas as letras digitadas serão automaticamente convertidas para minúsculas e os acentos removidos durante o processo de criptografia.
 
 `Copiar a mensagem`: a mensagem criptografada será exibida na área destinada para isso (área de texto direita). O usuário deve então clicar no botão de copiar.
 
 `Descriptografar a mensagem`: o usuário deve colar na área de texto esquerda a mensagem copiada anteriormente  e, em seguida, clicar no botão de descriptografar. A mensagem será exibida descriptografada na área de texto direita.
 
-## 📁 acesso
+## 📁 acesso-ao-projeto
 
 Clique [aqui](https://github.com/Caroline-Fraga/decodificador) para acessar o código do projeto ou baixá-lo.
 
-## 🛠 abrir-projeto
+## 🛠 abrir-e-executar-o-projeto
 
 Após o download do projeto no formato ZIP, siga os passos abaixo:
 
@@ -54,7 +54,7 @@ Após o download do projeto no formato ZIP, siga os passos abaixo:
 
 Seguindo estes passos, você poderá iniciar e utilizar o projeto conforme pretendido.
 
-## ✔ tecnologias
+## ✔ tecnologias-utilizadas
 
 - `HTML`
 - `CSS`
