@@ -28,8 +28,9 @@ Projeto desenvolvido para o Challenge ONE de lógica de programação da Alura.<
 
 # 🔨 Funcionalidades e demonstração do projeto
 
-- `Criptografar a mensagem`: o usuário digitará uma mensagem na área destinada a esta finalidade (área de texto esquerda, onde está escrito "Digite seu texto"), e então clicar no <button>criptografar</button>. <br>
-OBS: Caso o usuário não observe a restrição de utilizar exclusivamente letras minúsculas e sem acentos, não há motivo para preocupação, pois todas as letras digitadas serão automaticamente convertidas para minúsculas e os acentos removidos durante o processo de criptografia das palavras.
-- `Copiar a mensagem`: a mensagem aparecerá criptografada na área destinada a esta finalidade (área de texto direita), e então o usuário deve clicar no botão <button>copiar</button>.
-- `Descriptografar a mensagem`: o usuário deve colar a mensagem copiada anteriormente para a área de texto esquerda, e então clicar no botão  <button>descriptografar</button>. A mensagem então aparecerá descriptografada na área de texto direita. 
+`Criptografar a mensagem`: O usuário deve inserir uma mensagem na área designada para esse fim (à esquerda, onde está escrito "Digite seu texto") e, em seguida, clicar no botão criptografar. <br> Observação: Caso o usuário não siga a restrição de utilizar exclusivamente letras minúsculas e sem acentos, não é necessário se preocupar, pois todas as letras serão automaticamente convertidas para minúsculas e os acentos serão removidos durante o processo de criptografia.
+
+`Copiar a mensagem`: A mensagem criptografada será exibida na área destinada para isso (à direita). O usuário deve então clicar no botão de copiar.
+
+`Descriptografar a mensagem`: O usuário deve colar a mensagem copiada anteriormente na área de texto à esquerda e, em seguida, clicar no botão de descriptografar. A mensagem será exibida descriptografada na área de texto à direita.
 
