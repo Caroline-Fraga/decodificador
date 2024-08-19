@@ -41,10 +41,12 @@ Clique [aqui](https://github.com/Caroline-Fraga/decodificador) para acessar o c�
 ## 🛠 Abrir e executar o projeto
 
 Após o download do projeto no formato ZIP, siga os passos abaixo:
+
 - Descompacte o arquivo ZIP para acessar o conteúdo.
 - Navegue até a pasta intitulada "Decodificador de texto".
 - Localize e clique no arquivo index. O decodificador será aberto em seu navegador padrão.
 - O decodificador estará pronto para uso assim que abrir no navegador.
+
 Seguindo estes passos, você poderá iniciar e utilizar o projeto conforme pretendido.
 
 
