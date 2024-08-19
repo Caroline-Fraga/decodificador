@@ -21,7 +21,7 @@
 - [Índice](#Índice)
 - [Descrição do projeto](#Descrição-do-projeto)
 - [Funcionalidades e demonstração do projeto](#Funcionalidades-e-demonstração-do-projeto)
-- [:✔: Acesso ao projeto](#:✔: Acesso-ao-projeto)
+- [Acesso ao projeto](#:✔: Acesso-ao-projeto)
 - [Abrir e executar o projeto](#Abrir-e-executar-o-projeto)
 - [Tecnologias utilizadas](#Tecnologias-utilizadas)
 
