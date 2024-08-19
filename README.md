@@ -21,12 +21,12 @@
 - [Índice](#Índice)
 - [Descrição do projeto](#Descrição-do-projeto)
 - [Funcionalidades e demonstração do projeto](#Funcionalidades-e-demonstração-do-projeto)
-- [Acesso ao projeto](#Acesso-ao-projeto)
+- [:✔: Acesso ao projeto](#:✔: Acesso-ao-projeto)
 - [Abrir e executar o projeto](#Abrir-e-executar-o-projeto)
 - [Tecnologias utilizadas](#Tecnologias-utilizadas)
 
 
-# Descrição do projeto ✔
+# Descrição do projeto 
 
 Projeto desenvolvido para o Challenge ONE de lógica de programação da Alura.<br>O decodificador de texto tem por finalidade criptografar a mensagem digitada pelo usuário, e também descriptografá-la.
 
@@ -40,7 +40,7 @@ Projeto desenvolvido para o Challenge ONE de lógica de programação da Alura.<
 
 `Descriptografar a mensagem`: o usuário deve colar na área de texto esquerda a mensagem copiada anteriormente  e, em seguida, clicar no botão de descriptografar. A mensagem será exibida descriptografada na área de texto direita.
 
-# Acesso ao projeto
+# ✔ Acesso ao projeto
 
 Clique [aqui](https://github.com/Caroline-Fraga/decodificador) para acessar o código do projeto ou baixá-lo.
 
