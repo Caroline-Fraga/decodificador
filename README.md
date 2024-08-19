@@ -11,14 +11,13 @@
 
 ## indice
 
-- [Título e imagem de capa](#titulo)
+- [Título e imagem de capa](#título)
 - [Badges](#badges)
-- [Índice](#indice)
-- [Descrição do projeto](#descricao)
-- [Funcionalidades e demonstração do projeto](#funcionalidades)
+- [Índice](#índice)
+- [Descrição do projeto](#descrição)
+- [Funcionalidades](#funcionalidades)
 - [Acesso ao projeto](#acesso)
 - [Abrir e executar o projeto](#abrir-projeto)
-- [Tecnologias utilizadas](#tecnologias)
 
 ## descricao
 
