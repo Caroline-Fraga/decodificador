@@ -16,14 +16,14 @@
 
 ## índice
 
-* [Título e imagem de capa](##título-e-imagem)
-* [Badges](##badges)
-* [Índice](##índice)
-* [Descrição do projeto](##descrição)
-* [Funcionalidades do projeto](##funcionalidades)
-* [Acesso ao projeto](##acesso)
-* [Abrir e executar o projeto](##abrir-projeto)
-* [Tecnologias utilizadas](##tecnologias)
+- [Título e imagem de capa](##título-e-imagem)
+- [Badges](##badges)
+- [Índice](##índice)
+- [Descrição do projeto](##descrição)
+- [Funcionalidades do projeto](##funcionalidades)
+- [Acesso ao projeto](##acesso)
+- [Abrir e executar o projeto](##abrir-projeto)
+- [Tecnologias utilizadas](##tecnologias)
 
 ## descrição
 
