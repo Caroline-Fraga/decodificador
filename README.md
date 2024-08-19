@@ -18,7 +18,6 @@
 - [Funcionalidades e demonstração do projeto](#funcionalidades)
 - [Acesso ao projeto](#acesso)
 - [Tecnologias utilizadas](#tecnologias)
-- [Conclusão](#conclusao)
 
 ## Descrição do projeto
 
