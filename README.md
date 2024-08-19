@@ -4,9 +4,8 @@
 ## Badges
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Status-Finalizado-green">
-    <img src="https://img.shields.io/badge/Data%20de%20Lan%C3%A7amento-Agosto%202024-blue">
-    <img src="https://img.shields.io/badge/Data%20de%20Lan%C3%A7amento-Agosto%202024-blue">
+    <img src="https://img.shields.io/badge/STATUS-FINALIZADO-green">
+    <img src="https://img.shields.io/badge/DATA%20DE%20LAN%C3%87AMENTO-AGOSTO%202024-blue">
     <img src="https://img.shields.io/github/license/Caroline-Fraga/decodificador">
     <img src="https://img.shields.io/github/forks/Caroline-Fraga/decodificador">
     <img src="https://img.shields.io/github/stars/Caroline-Fraga/decodificador">
